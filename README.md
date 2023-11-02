@@ -1,6 +1,10 @@
 ## <div align="center">Hi 👋🏻, I'm Steve</div>
-![Steve-Banner](https://github.com/Salchichon057/Salchichon057/assets/102430662/2d07c692-61fa-456f-85bd-1ee68b03fd03)
-### <div align="center">A Software Engineer student</div>
+
+<div  align="center">
+  <img width="100%" src="https://github.com/Salchichon057/Salchichon057/assets/102430662/db193f9a-c118-4cd2-9002-d94a4256615b" alt="SteveBanner" autoplay>
+</div>
+
+### <div align="center">A Software Engineering Student</div>
 - 🔭 I’m currently student at [UPC](https://www.upc.edu.pe) in Perú
 
 - 🌱 I’m currently learning MySQL and MongoDB  
