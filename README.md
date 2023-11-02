@@ -1,5 +1,5 @@
 ## <div align="center">Hi 👋🏻, I'm Steve</div>
-![Steve-Banner](https://github.com/Salchichon057/Salchichon057/assets/102430662/cf9ce216-af8d-4498-930a-8aebcf51b60f)
+![Steve-Banner](https://github.com/Salchichon057/Salchichon057/assets/102430662/2d07c692-61fa-456f-85bd-1ee68b03fd03)
 ### <div align="center">A Software Engineer student</div>
 - 🔭 I’m currently student at [UPC](https://www.upc.edu.pe) in Perú
 
